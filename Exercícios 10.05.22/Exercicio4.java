@@ -104,6 +104,9 @@ public class Exercicio4 {
 					System.out.println(matB[l][c]);
 				}
 			}
+			break;
+			default:
+				System.out.println("Opção inválida.");
 		}
 
 	}
