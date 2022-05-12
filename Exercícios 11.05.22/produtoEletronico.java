@@ -8,11 +8,11 @@ package teste;
 
 public class produtoEletronico {
 
-	double preco;
-	String cor;
-	int anoLancamento;
-	String proprietario;
-	String aparelho;
+	private double preco;
+	private String cor;
+	private int anoLancamento;
+	private String proprietario;
+	private String aparelho;
 	
 	public produtoEletronico(double preco,String cor,int anoLancamento,String proprietario,String aparelho)
 	{

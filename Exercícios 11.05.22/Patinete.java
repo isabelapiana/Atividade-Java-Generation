@@ -7,10 +7,10 @@ package teste;
 
 public class Patinete {
 
-	String cor;
-	double preco;
-	int quantidadeDeRodas;
-	String proprietarie;
+	private String cor;
+	private double preco;
+	private int quantidadeDeRodas;
+	private String proprietarie;
 	
 	public Patinete(String cor,double preco,int quantidadeDeRodas,String proprietarie)
 	{
